@@ -1,1 +1,1 @@
-# motorbit_v2
+# Emakefun micorbit ph2.0 sensorbit extensions
